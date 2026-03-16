@@ -25,13 +25,13 @@ When I'm not working with data, I enjoy readind books, learn about history and s
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building a sales forecasting model in Python.]  
-- **Project B:** [Creating an interactive marketing dashboard in Power BI.]
+- **Project A:** Building a sales forecasting model in Python.
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
 
 ## 🌱 Currently Learning 
 
-- [Advanced machine learning techniques in Scikit-learn.]
-- [Cloud data warehousing with Google BigQuery.]
+- Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
